@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../BankAccountApp/BankAccountApp.csproj" Id="1190b49e-ecc3-4f6c-bde5-7c94b5f3ee99" />
+  <Project Path="../BankAccountTests/BankAccountTests.csproj" />
+  <Project Path="../LoginAutomation/LoginAutomation.csproj" />
+  <Project Path="BasicMath/BasicMath.csproj" />
+  <Project Path="BasicMathTests/BasicMathTests.csproj" Id="5eb44c81-b987-4811-87b1-8893adbf8ce0" />
+</Solution>
